@@ -17,5 +17,7 @@
 # copy():                       | Retorna uma cópia rasa (shallow copy) do conjunto.
 # union(*conjuntos):            | Retorna um novo conjunto que contém todos os elementos do conjunto atual e dos conjuntos especificados como argumentos.
 # intersection(*conjuntos):     | Retorna um novo conjunto que contém apenas os elementos que estão presentes tanto no conjunto atual quanto nos conjuntos especificados.
+# issuperset(conjunto):         | Verifica se o conjunto atual é um superconjunto do conjunto especificado.
+# isdisjoint(conjunto):         | Verifica se o conjunto atual e o conjunto especificado não têm elementos em comum.
 
 # Alguns dos métodos, existem outros.
